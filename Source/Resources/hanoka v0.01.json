@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"body0000":
+{
+	"frame": {"x":18,"y":18,"w":25,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":45},
+	"sourceSize": {"w":25,"h":45}
+},
+"head0000":
+{
+	"frame": {"x":53,"y":18,"w":27,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":31},
+	"sourceSize": {"w":27,"h":31}
+},
+"lower arm0000":
+{
+	"frame": {"x":18,"y":73,"w":5,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":23},
+	"sourceSize": {"w":5,"h":23}
+},
+"lower leg0000":
+{
+	"frame": {"x":90,"y":18,"w":5,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":31},
+	"sourceSize": {"w":5,"h":31}
+},
+"upper arm0000":
+{
+	"frame": {"x":53,"y":59,"w":17,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":33},
+	"sourceSize": {"w":17,"h":33}
+},
+"upper leg0000":
+{
+	"frame": {"x":80,"y":59,"w":13,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":39},
+	"sourceSize": {"w":13,"h":39}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "hanoka v0.01.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}
